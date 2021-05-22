@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
           voluptates veniam commodi sint et laborum, facilis rerum dolor tempora
