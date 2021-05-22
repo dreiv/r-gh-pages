@@ -1,5 +1,6 @@
 {
   "name": "r-gh-pages",
+  "homepage": "https://dreiv.github.io/r-gh-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
